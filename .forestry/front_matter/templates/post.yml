@@ -38,3 +38,20 @@ fields:
   type: text
   hidden: true
   default: post
+- name: bg-color
+  type: select
+  default: blue
+  config:
+    required: true
+    options:
+    - blue
+    - pink
+    - green
+    - purple
+    - yellow
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Color
