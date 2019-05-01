@@ -55,3 +55,5 @@ fields:
       file: 
       path: 
   label: Color
+pages:
+- _posts/demo.md
