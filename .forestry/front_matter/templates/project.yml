@@ -26,3 +26,19 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: test
+  type: include
+  config: {}
+  template: default
+  label: test-template
+- name: test_2
+  type: blocks
+  label: test 2
+  template_types: []
+  config:
+    min: 
+    max: 
+- name: test_3
+  type: field_group
+  config: {}
+  label: test 3
