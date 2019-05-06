@@ -1,0 +1,7 @@
+---
+label: Test 10
+hide_body: false
+fields:
+- type: textarea
+  name: bla
+  label: bla
