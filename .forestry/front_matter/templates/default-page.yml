@@ -41,3 +41,12 @@ fields:
     max: 
     labelField: 
   label: list-block
+- name: l
+  type: blocks
+  label: l
+  template_types:
+  - information-yml
+  - test-10
+  config:
+    min: 
+    max: 
